@@ -1,0 +1,16 @@
+{
+"companyName": "Slog",
+"productName": "Lunar Explorer",
+"productVersion": "0.1",
+"dataUrl": "LunarExplorer.data.unityweb",
+"wasmCodeUrl": "LunarExplorer.wasm.code.unityweb",
+"wasmFrameworkUrl": "LunarExplorer.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
